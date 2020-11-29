@@ -1,0 +1,3 @@
+username: YOUR_USERNAME
+passsword: YOUR_PASSWORD
+secure-connect-bundle: PATH_TO_YOUR_SECURE_CONNECT_BUNDLE_ZIP_FILE
